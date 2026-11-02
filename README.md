@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  <a href="#下载">下载</a> · <a href="#功能一览">功能一览</a> · <a href="#从源码构建">从源码构建</a>
+  <a href="https://ifvxavb5oowr6.ok.kimi.link/"><img src="https://img.shields.io/badge/🔗%20在线演示-live%20demo-brightgreen" alt="在线演示"></a>
+</p>
+
+<p align="center">
+  <a href="#下载">下载</a> · <a href="#功能一览">功能一览</a> · <a href="#从源码构建">从源码构建</a> · <a href="https://ifvxavb5oowr6.ok.kimi.link/">在线演示</a>
 </p>
 
 - **账户**：注册审批制，管理员 / 教师 / 学生三角色，登录三次失败锁定
@@ -35,7 +39,8 @@
 
 ## 下载
 
-下载 `金工实习管理系统_setup.exe`，双击安装即可（Windows 10 / 11，64 位）。
+- **在线演示**：<https://ifvxavb5oowr6.ok.kimi.link/> —— 项目演示站点（建设中，仅供预览，以本地安装版功能为准）
+- **本地安装**：下载 `金工实习管理系统_setup.exe`，双击安装即可（Windows 10 / 11，64 位）。
 
 安装包由 Inno Setup 生成，内置中文安装向导，可选创建桌面快捷方式；数据文件随安装目录分发，无需额外配置。
 
