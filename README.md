@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/release-v1.0-blue" alt="release">
+  <img src="https://img.shields.io/badge/release-v1.6-blue" alt="release">
   <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-blue" alt="platform">
   <img src="https://img.shields.io/badge/language-C-555555" alt="language">
   <img src="https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-orange" alt="license">
